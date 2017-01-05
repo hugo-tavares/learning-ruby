@@ -15,7 +15,7 @@ p arr_words[2..4] # => ["great", "day", "today"]
 #make a string out of array elements separated by ','
 puts arr_words.join(',') #what,a,great,day,today!
 
-#append: push or <<
+#append: push or <<	
 #remove: pop or shift
 #set: [] = method
 #sample = randomly pull elements

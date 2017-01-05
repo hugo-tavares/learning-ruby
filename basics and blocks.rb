@@ -1,4 +1,4 @@
-def firstClasses 
+*def firstLesssons 
 	 #CONTROL STATEMENTS ALWAYS END WITH 'end'
 	a = 5
 	if a ==3
